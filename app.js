@@ -37,6 +37,18 @@ const app ={
         image: './img/dancing.jpg'
     },
     {
+        name: 'Savage Love',
+        singer: 'JasonDerulo',
+        path: './music/SavageLove-JasonDerulo-6288663.mp3',
+        image: './img/Savage_love.jpg'
+    },
+    {
+        name: 'Seorita',
+        singer: 'ShawnMendes',
+        path: './music/Seorita-ShawnMendesCamilaCabello-6007813.mp3',
+        image: './img/Senorita.jpg'
+    },
+    {
        name: 'On My Way',
        singer: 'AlanWalker',
        path: './music/OnMyWay-AlanWalkerSabrinaCarpenterFarruko-5919403.mp3',
